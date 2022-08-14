@@ -21,7 +21,7 @@ btnaddrun.addEventListener("click", function () {
 
 btncancel.addEventListener("click",function(){
     setTimeout(() => {
-        window.location = 'home.html';
+        window.location = 'index.html';
       }, 200);
     
 });
